@@ -10,5 +10,5 @@
  + *My skills in web development:* Java,Spring,Hibernate and JPA,Intellij idea.
 
  + *Trainings and my projects:* EPAM vsu-lab 2019(java web-development),[spring3](https://github.com/Eugene-Korenevsky/hostel.com"project with using spring3"), [spring5](https://github.com/Eugene-Korenevsky/hostel-2.0"project with using spring5"), [spring and microservices](https://github.com/Eugene-Korenevsky/hostel-3.0"Microservices"), [oop](https://github.com/Eugene-Korenevsky/oop"oop java"), [Dependency injection](https://github.com/Eugene-Korenevsky/DI"DI java"), [xml parsing](https://github.com/Eugene-Korenevsky/xml-parsing"xml parsing java"), [text-parsing](https://github.com/Eugene-Korenevsky/text-parsing"text parsing java"), [final project epam vsu-lab](https://github.com/Eugene-Korenevsky/hotel.com"jsp,coonection pool,servlets and so on").
- + *Education:* I have a higher education(Belarusian State University of Physical Culture(football coach))
+ + *Education:* I  have a higher education(Belarusian State University of Physical Culture(football coach))
  + *English:* My english level is Pre-intermediate.
