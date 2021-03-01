@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(180, 176, 166);
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    padding-top: 4%;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    width: 70%;
+    margin: auto;
+}
+
+.email {
+    list-style-type: none;
+    text-align: center;
+    width: 50%;
+}
+
+.number {
+    list-style-type: none;
+    text-align: center;
+    width: 50%;
+}
+
+figure {
+    margin: auto;
+    text-align: center;
+}
+
+figure figcaption {
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p,
+ul li {
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(41, 148, 41);
+}
+
+.photo {
+    border-radius: 200px;
+    border: 2px solid black;
+    box-shadow: 0 0 7px #666;
+}
+
+.profile {
+    width: 50%;
+    padding-top: 2rem;
+}
+
+.context {
+    width: 50%;
+}
+
+h2 {
+    text-align: center;
+}
+
+@media(max-width: 1000px) {
+    main {
+        flex-direction: column;
+    }
+    .context {
+        width: 100%;
+    }
+    .profile {
+        width: 100%;
+    }
+    img {
+        width: 200px;
+    }
+    .contacts {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .email {
+        width: 100%;
+    }
+    .number {
+        width: 100%;
+    }
+}
